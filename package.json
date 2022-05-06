@@ -1,0 +1,22 @@
+{
+  "name": "gt-virt-fsf-ft-03-2022-u-lol",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gt.bootcampcontent.com:GT-Coding-Boot-Camp/GT-VIRT-FSF-FT-03-2022-U-LOL.git"
+  },
+  "author": "Candice Bailey",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
